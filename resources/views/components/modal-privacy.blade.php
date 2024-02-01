@@ -90,8 +90,8 @@
                         Solar Volt Inc. <br>
                         801 Brickell Ave, Suite 817 <br>
                         Miami, Florida, 33131 <br>
-                        Email: info@voltsolarenergy.com <br>
-                        Phone: (786) 744-7703
+                        Email: info@voltfs.com <br>
+                        Phone: +1 (786) 321-5117
                     </p>
                 </div>
             </div>

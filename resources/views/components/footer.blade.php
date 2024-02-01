@@ -6,10 +6,9 @@
                     <h4 class="title-footer white-space">{{ $text_title_footer }}</h4>
                     <div class="horizontal-bar"></div>
                     <h3 class="title-footer">@lang('translations.Reach'):</h3>
-                    {{-- <p class="margin-top-20">@lang('translations.Phone'): (786) 744-7703</p> --}}
-                    <p class="footer-contact-info margin-top-20">@lang('translations.Phone'): (786) 744-7703</p>
+                    <p class="footer-contact-info margin-top-20">@lang('translations.Phone'): +1 (786) 321-5117</p>
                     <p class="footer-contact-info margin-top-10">@lang('translations.New customers'): info@voltsolarenergy.com</p>
-                    <p class="footer-contact-info margin-top-10">@lang('translations.Customer Support'): support@voltsolarenergy.com</p>
+                    <p class="footer-contact-info margin-top-10">@lang('translations.Customer Support'): info@voltfs.com</p>
                     <p class="footer-contact-info margin-top-10">@lang('translations.Address'): 801 Brickell Ave. Suite 817 Miami, FL 33131</p>
                     <ul class="list-inline margin-top-20 icon-size-sm">
                         <li><a href="https://www.facebook.com/voltenrgy" target="_blank"><i class="fab fa-facebook text-blue-2"></i></a></li>
